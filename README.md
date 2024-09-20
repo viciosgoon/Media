@@ -4,4 +4,4 @@
 Contains logos and other assets for the Conventus forum software.
 
 ### Font
-Font used used in Conventus logos is Sans Mateo 2.
+Font used in Conventus logos is Sans Mateo 2.
